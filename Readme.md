@@ -1,1 +1,1 @@
-A repository to store some of my projects in React
+A repository to store some of my React projects
