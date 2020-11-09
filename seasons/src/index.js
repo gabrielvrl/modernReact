@@ -4,6 +4,8 @@ import ReactDOM from 'react-dom';
 class App extends React.Component{
   constructor(props) {
     super(props);
+
+    this.state = { lat: null };
   }
 
   // React says we have to define render
@@ -13,7 +15,7 @@ class App extends React.Component{
       (err) => console.log(err)
     );
 
-    return <div>Latitude: </div>;
+    return <div>Latitude: {this.state.lat}</div>;
   }
 }
 
