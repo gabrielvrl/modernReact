@@ -1,5 +1,25 @@
 # A repository to store some of my React projects
 
+## Seasons App:
+
+### A simple app to display a content related to the season of the year you are in
+
+#### Loading
+
+![loading](https://user-images.githubusercontent.com/22225821/98690191-71945d00-234b-11eb-9215-aa0ae6c7b265.gif)
+
+#### Summer
+
+![summer](https://user-images.githubusercontent.com/22225821/98690226-7bb65b80-234b-11eb-83e6-52f8e2ffc16d.png)
+
+#### Winter
+
+![winter](https://user-images.githubusercontent.com/22225821/98690317-91c41c00-234b-11eb-9a65-40bc47eec50d.png)
+
+#### Error (location blocked)
+
+![error](https://user-images.githubusercontent.com/22225821/98690327-94267600-234b-11eb-8692-97e86bb56150.png)
+
 ## Comments App:
 
 ### A simple app to display comments like a forum, or a blog.
