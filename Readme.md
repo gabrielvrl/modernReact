@@ -1,5 +1,13 @@
 # A repository to store some of my React projects
 
+## Pics App:
+
+### A app to search for images, using Unsplash API.
+
+#### Just like Google =D
+
+![picsapp](https://user-images.githubusercontent.com/22225821/99013487-613cd780-252f-11eb-8857-56ab12c72195.gif)
+
 ## Seasons App:
 
 ### A simple app to display a content related to the season of the year you are in
