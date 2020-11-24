@@ -9,6 +9,9 @@
 ## Videos App:
 
 ### Videos App has a [Class Based App](https://github.com/gabrielvrl/modernReact/tree/master/videos) and another version using Functional Components and React Hooks [here](https://github.com/gabrielvrl/modernReact/tree/master/videos-hooks)
+
+### You can access the Functional and Hooks version of this app here: https://videos-hooks-chi-gray.vercel.app
+
 ### An app to search for videos, using Youtube API.
 
 #### Here's a example:
