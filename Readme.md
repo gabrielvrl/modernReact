@@ -1,8 +1,14 @@
 # A repository to store some of my React projects
 
+## Widgets App:
+
+### An App that shows some widgets using React Hooks and some Routes knowledge
+
+![widgets](https://user-images.githubusercontent.com/22225821/100090138-7b30c100-2e31-11eb-8ba0-0d7b80388444.gif)
+
 ## Videos App:
 
-### A app to search for videos, using Youtube API.
+### An app to search for videos, using Youtube API.
 
 #### Here's a example:
 
@@ -10,7 +16,7 @@
 
 ## Pics App:
 
-### A app to search for images, using Unsplash API.
+### An app to search for images, using Unsplash API.
 
 #### Just like Google =D
 
@@ -18,7 +24,7 @@
 
 ## Seasons App:
 
-### A simple app to display a content related to the season of the year you are in
+### An simple app to display a content related to the season of the year you are in
 
 #### Loading
 
@@ -38,6 +44,6 @@
 
 ## Comments App:
 
-### A simple app to display comments like a forum, or a blog.
+### An simple app to display comments like a forum, or a blog.
 
 ![Screenshot from 2020-11-08 10-45-23](https://user-images.githubusercontent.com/22225821/98466898-2e9e8200-21b1-11eb-841a-5f4ed9ea0004.png)
