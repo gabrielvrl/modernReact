@@ -2,7 +2,7 @@
 
 ## Widgets App:
 
-### An App that shows some widgets using React Hooks and some Routes knowledge
+### An App that shows some widgets using React Hooks and some Routes knowledge.
 
 ![widgets](https://user-images.githubusercontent.com/22225821/100090138-7b30c100-2e31-11eb-8ba0-0d7b80388444.gif)
 
