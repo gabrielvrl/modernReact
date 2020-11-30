@@ -1,5 +1,11 @@
 # A repository to store some of my React projects
 
+## Redux - Songs App:
+
+### An App that displays title and duration of selected songs using Redux.
+
+![songs](https://user-images.githubusercontent.com/22225821/100614096-59817f00-32f4-11eb-804e-d5f9990de2f5.gif)
+
 ## Widgets App:
 
 ### An App that shows some widgets using React Hooks and some Routes knowledge.
